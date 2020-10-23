@@ -1,0 +1,120 @@
+/* #header-pic{
+    width: 100%;
+    height: 520px;
+}
+#wrapr{
+    background: rgba(1,1,1,0.5);
+    padding: 100px;
+} */
+
+.wrap{
+    background: rgba(39, 39, 39, 0.336);
+    padding: 230px;
+  }
+  #Wraper1{
+      background-size: cover;
+      width: 100%;
+      background-image: url("../../Images/headerImages/headerImage1.jpg");
+      outline:  none;
+    }
+    #Wraper2{
+        background-size: cover;
+        width: 100%;
+        background-image: url("../../Images/headerImages/headerImage2.jpg");
+        outline:  none;
+      }
+      #Wraper3{
+        background-size: cover;
+        width: 100%;
+        background-image: url("../../Images/headerImages/headerImage3.jpg");
+        outline:  none;
+      }
+      #Wraper4{
+        background-size: cover;
+        width: 100%;
+        background-image: url("../../Images/headerImages/headerImage4.jpg");
+        outline:  none;
+      }
+      #Wraper5{
+        background-size: cover;
+        width: 100%;
+        background-image: url("../../Images/headerImages/headerImage5.jpg");
+        outline:  none;
+      }
+      #Wraper6{
+        background-size: cover;
+        width: 100%;
+        background-image: url("../../Images/headerImages/headerImage6.jpg");
+        outline:  none;
+      }
+#header-heading{
+    position: absolute;
+    font-size: 4rem;
+    line-height: 1.15625;
+    color: white;
+    font-weight: 350;
+    margin-top: 5%;
+}
+
+#tab-setting{
+    background-color: #9b1113;
+    border-left: 1px solid red;
+    width: 33.3333%;
+    text-align: center;
+    color: white;
+    font-weight: 200;
+    font-size: 1.2em;
+    border-right: 1px solid #9b1113;
+    border-top: 1px solid #9b1113;
+    margin-top: -20px;
+    height: 80px;
+    padding-top: 20px;
+}
+#tab-setting:hover{
+    background-color: rgb(189, 27, 27);
+    border-top: 1px solid rgb(189, 27, 27);
+}
+#inf-heading{
+    font-size: 1.875rem;
+    line-height: 1.26667;
+    color: #0e191d;
+    font-weight: 350;
+    margin-top: 50px;
+}
+#link-heading{
+    font-size: 1.275rem;
+    line-height: 1.26667;
+    color: #0e191d;
+    font-weight: 350;
+    margin-top: 50px;
+}
+.tab-content p{
+    font-size: 1.25rem;
+    color: #5f7881;
+    display: block;
+    font-weight: 350;
+    position: relative;
+    cursor: pointer;
+}
+#card-wrap{
+    background-color: rgb(217, 223, 223);
+    width: 350px;
+    height: 230px;
+    padding: 20px;
+    font-family: sans-serif;
+    line-height: 1.0;
+    text-align: left;
+    color: #293336;
+    border-radius: 10px;
+}
+#research-year-settings{
+    font-size: 1.175rem;
+    line-height: 1.26667;
+    font-weight: 550;
+    color: #152429;
+    background-color: white;
+    
+}
+#research-year-settings:hover{
+    background-color: lavender;
+}
